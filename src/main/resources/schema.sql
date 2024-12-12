@@ -6,5 +6,5 @@ description VARCHAR(256) NOT NULl
 
 create table users (
 username VARCHAR(50) NOT NULl PRIMARY KEY,
-password VARCHAR(50) NOT NULl
+password VARCHAR(256) NOT NULl
 );
