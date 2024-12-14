@@ -11,3 +11,5 @@
   * インメモリデータベースはサーバーのメモリ上にデータを保存するため、アプリケーションを再起動するとデータが消える
 * userId, PW
   * tom, password1234
+* bootstrap読み込み箇所
+  * resources/templates/fragments/layout.html
